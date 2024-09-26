@@ -1,0 +1,146 @@
+Slides_content = [
+  {
+    "layout": 1,
+    "title": "Wells Fargo’s 8 Healthy Financial Habits",
+    "content": [
+      "March 16, 2021",
+      "Robyn Hill\nCampus Program Manager",
+      "Materials are accurate as of March 16, 2021.  After this date, please contact your Program Manager to find out what might have changed and to learn how to obtain current information."
+    ],
+    "image": null 
+  },
+  {
+    "layout": 5, 
+    "title": "Boost financial health one step at a time",
+    "content": [
+      "Get started with simple, easy-to-follow guidelines."
+    ],
+    "image": null 
+  },
+  {
+    "layout": 8,
+    "title": null,
+    "content": [
+      "Pay yourself first",
+      "Create a safety net",
+      "Pay on time, every time",
+      "Review your insurance annually",
+      "Track your spending",
+      "Pay down high-interest-rate debt",
+      "Know where your credit stands",
+      "Save for retirement"
+    ],
+    "image": null 
+  },
+  {
+    "layout": 9,
+    "title": "Pay yourself first",
+    "content": [
+      "Set aside some income for savings — about 5 – 10%.",
+      "If you deposit or move money into your savings account every time you get paid, you may be less likely to spend it on your everyday expenses. This practice can help you foster a habit of saving that will add up over time and help you be prepared for large or unexpected expenses.\n\nA good target is to save 5 – 10% of your take-home pay and put it toward your savings goals. Saving even $25 or $50 a month is one small step you can take to help you get into the habit.\n\nBy paying yourself first, you make saving a top priority."
+    ],
+    "image": null 
+  },
+  {
+    "layout": 9,
+    "title": "Create a safety net",
+    "content": [
+      "Build up emergency savings to cover 3 – 6 months’ worth of expenses.",
+      "An emergency savings fund is a separate account you can use to cover expenses during an unforeseen event, like an illness, losing a job, or even a major car repair. Having money at your fingertips can take some of the financial sting out of dealing with unforeseen events – and could also help you avoid taking on extra debt.\n\nA good goal is to put away at least 3 – 6 months’ worth of living expenses. That might seem like a big amount at first, but the idea is to put a small amount away each week or two to build up to that goal. \n\nPlacing your emergency fund in an interest-earning bank account can give you easy access to your money when you need it."
+    ],
+    "image": null 
+  },
+  {
+    "layout": 9,
+    "title": "Pay on time, every time",
+    "content": [
+      "Improve and maintain your credit score by paying your bills on time.",
+      "Your payment history is a big part of your credit score, representing about 35% of the total. So, paying all your bills on time is one of the best and most important things you can do to protect your credit rating and avoid late fees.\n\nIt’s a good idea to prioritize and schedule your monthly payments, making sure to pay at least the minimum balance every month on all your accounts. Take it one step further, and set up automatic payments and reminders online to save you time and help ensure all your bills are paid before they’re due."
+    ],
+    "image": null 
+  },
+  {
+    "layout": 9,
+    "title": "Review your insurance annually",
+    "content": [
+      "Protect what counts by checking your insurance coverage every year.",
+      "You work hard for yourself and your loved ones. Protecting what you value doesn’t have to be as hard. To secure yourself financially and protect those you love, there are a few types of insurance that everyone should consider, such as homeowners or renters, auto, life, and umbrella insurance. \n\nIt’s a good idea to review your coverage once a year. Keep in mind that insurance needs change as your life changes, so you should also review your insurance whenever big events happen, such as moving, getting married, starting a family, or changing jobs."
+    ],
+    "image": null
+  },
+  {
+    "layout": 9,
+    "title": "Track your spending",
+    "content": [
+      "Make sure you know where your money is going every month.",
+      "If you’re trying to get your finances on track, a good first step is to know how you’re spending your money. Here are 3 steps to help you maximize every dollar you earn:\n\n1. Find out where your money is going. Add up your monthly bills, such as your mortgage or rent, insurance, utilities and phone. Then, track your personal expenses, such as groceries, gas, clothes, even coffee and snacks.\n2. Put your money where it matters most. Ensure you have enough money to cover your needs first, like paying your bills, paying down debt, and adding money to savings.\n3. Review your needs. As you review your expenses, consider whether an expense is something you need or something you want. This step will help you find areas to reduce your spending and find ways to save. If you find you don’t have enough money to cover your spending and allow for savings each month, think about ways to reduce your spending on the things you don’t need."
+    ],
+    "image": null 
+  },
+  {
+    "layout": 9,
+    "title": "Pay down high-interest-rate debt",
+    "content": [
+      "Spend less on interest by paying down the debt that costs you the most.",
+      "You can reduce your total debt faster and pay less on interest and fees by using a pay-down strategy.\n\nIt’s helpful to make a list of all your debt amounts and interest rates. You’ll get the most financial reward by paying down your highest-interest-rate debt first, such as credit cards. That’s because the higher the interest rate, the more money you’re charged in borrowing fees.\n\nBy targeting this debt, and paying it off in full first, you’ll reduce the total amount you owe faster. You’ll also free up money to put toward savings or paying down your next debt. Use this approach to pay down accounts with the highest interest rates, one by one, while still making regular payments on the rest — more than the minimum amount if you are able."
+    ],
+    "image": null 
+  },
+  {
+    "layout": 9,
+    "title": "Know where your credit stands",
+    "content": [
+      "Check your credit report annually to make sure it’s accurate.",
+      "Maintaining good credit is one of the best things you can do to keep financially healthy. A strong credit history and credit score may help you get better interest rates on loans, credit cards, and lines of credit. Plus, many insurance companies, cell phone providers, and landlords refer to your credit score to make decisions.\n\nYour credit activity, or what you borrow and when you repay it, make up your credit history. Credit reporting agencies collect this information from various sources and issue reports based on your borrowing and debt-paying habits. All this information contributes to your credit score, which is like a grade for your credit report."
+    ],
+    "image": null 
+  },
+  {
+    "layout": 9,
+    "title": "Save for retirement",
+    "content": [
+      "Save early to benefit from compounding interest.",
+      "The sooner you start saving for retirement, the less you will actually need to put away, because your money may work harder and grow more each year. To keep your retirement goals on target during your peak earning years, you may also want to:\n\n* Annually review your progress with your financial professional and adjust your saving and investment goals and manage your asset allocation to stay aligned with your long-term goals, even during periods of market uncertainty.\n* Consider putting part or all of any bonuses, tax refunds, or other lump-sum payments into your retirement savings. \n\nThis will help you to stay focused on maximizing your retirement savings and not let competing priorities get in the way."
+    ],
+    "image": null 
+  },
+  {
+    "layout": 6, 
+    "title": "Consider your next steps",
+    "content": [
+      "Consider what actions you can take to learn more."
+    ],
+    "image": null 
+  },
+  {
+    "layout": 5, 
+    "title": "How can you get started?",
+    "content": [
+      "Review the resource flyer that provides:",
+      "Summarizes topics discussed today",
+      "Provides you with a link to financial education resources",
+      "Convenient ways to reach us"
+    ],
+    "image": null 
+  },
+  {
+    "layout": 8,
+    "title": "Get started today,\nlearn more or make an appointment",
+    "content": [
+      "Call us at\n1-800-869-3557\n24 hours a day, 7 days a week",
+      "Make an appointment\nwellsfargo.com/appointment",
+      "Visit us online\n wellsfargo.com/atwork"
+    ],
+    "image": null 
+  },
+  {
+    "layout": 21,
+    "title": "Thank you!",
+    "content": [
+      "Contact Information:", // This is optional, add if needed
+      "Phone: [phone number]", 
+      "Email: [email address]"  
+    ],
+    "image": null // You can add an optional image here
+  }
+]
